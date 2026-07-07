@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: lestallion-business-card-scanner-572
+  runtime: static
+  staticPublishPath: public
